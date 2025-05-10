@@ -2,7 +2,7 @@
 
 Hello and welcome to my Module 4 PANDA's Project for UCI's Data Analytics Bootcamp. This project introduces my skills of Pandas and my increase use of Jupyter Notebooks!
 
-Within this project I am the new Cheif Data Scientist for a school district. The school baord and the Mayor want to make strategic decisions regarding the future school budgets and priorities. 
+Within this project I am the new Chief Data Scientist for a school district. The school baord and the Mayor want to make strategic decisions regarding the future school budgets and priorities. 
 
 My process was the clean and merge the datasets between district data and student data marrying the two into one dataset. From there Analysis was run to validate the total numbers of schools, total number of students, the budget involved, and the average Math and reading schools with their percentages of passing for the entire data set. 
 Once validated, anaylsis was run per the school, and a DataFrame was created showcasing the budget per students, average math and reading scores, and percentages passing math, reading, and overall seperated by school and the type of school. 
